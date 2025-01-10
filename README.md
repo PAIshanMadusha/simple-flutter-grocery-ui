@@ -1,16 +1,19 @@
-# flutter_grocery_app
+# Flutter Grocery UI
 
-A new Flutter project.
+The **Flutter Grocery UI** is a beginner-friendly Flutter project that showcases a clean and simple user interface design for a grocery shopping app. This project includes three user interfaces and is designed for front-end demonstration only, without any backend functionality.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Clean and simple UI design
+- Three user-friendly interfaces
+- Built with Flutter, ideal for beginners
+- No backend functionality, focusing solely on the user interface
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## System Screenshots
+---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd8dc3f9-c1df-4724-a7df-c141b8bed6f0" alt="UI 1 Screenshot" width="300">
+  <img src="https://github.com/user-attachments/assets/271b1c44-30c3-484c-bdf9-8215c9feb155" alt="UI 2 Screenshot" width="300">
+  <img src="https://github.com/user-attachments/assets/96e43063-9518-4535-b1aa-6c79d1b97f7c" alt="UI 3 Screenshot" width="300">
+  <img src="https://github.com/user-attachments/assets/6f13d351-10f9-47a7-927e-87007f38199b" alt="UI 4 Screenshot" width="300">
+</p>
